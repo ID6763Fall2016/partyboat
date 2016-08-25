@@ -4,9 +4,9 @@ Knowledge of the capability and features of different sensor and actuator techno
 
 Deliverables:
  - 1 Arduino-based PARTY BOAT
-  - 1 Presentation with a demonstration of said PARTY BOAT
-  -	1 Blog post of the PARTY BOAT project including:
- - 1+ Photo of the PARTY BOAT
+ - 1 Presentation with a demonstration of said PARTY BOAT
+ -	1 Blog post of the PARTY BOAT project including:
+  - 1+ Photo of the PARTY BOAT
   - 1 Video of the PARTY BOAT
   - 1 Description of the PARTY BOAT
  - 1 Subfolder in the partyboat GitHub repository in our ID6763Fall2016 organization with your PARTY BOAT software including:
@@ -18,4 +18,8 @@ The in-class team presentations are scheduled for Thursday, September 1st, 2016,
 
 Peer Evaluations are due Tuesday, September 6th, 2016 on the teammatesv4 site.
 
-Documentation (i.e. Blog post and GitHub) are due Thursday, September 8th, 2016. 
+Documentation (i.e. Blog post and GitHub) are due Thursday, September 8th, 2016.
+
+Links:
+ - [Getting Started with Intel Galileo](http://poojabaraskar.com/getting-started-with-intel-galileo/)
+ - [Arduino* IDE 1.6.0 Version 1.0.8](http://www.intel.com/content/www/us/en/support/boards-and-kits/intel-galileo-boards/000021501.html)
