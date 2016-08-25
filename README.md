@@ -24,3 +24,4 @@ Links:
  - [Intel Galileo](https://www.arduino.cc/en/ArduinoCertified/IntelGalileo)
  - [Getting Started with Intel Galileo](http://poojabaraskar.com/getting-started-with-intel-galileo/)
  - [Arduino* IDE 1.6.0 Version 1.0.8](http://www.intel.com/content/www/us/en/support/boards-and-kits/intel-galileo-boards/000021501.html)
+ - [Galileo Experiment Guide](https://learn.sparkfun.com/tutorials/galileo-experiment-guide)
