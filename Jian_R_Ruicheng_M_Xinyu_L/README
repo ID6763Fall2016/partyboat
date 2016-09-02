@@ -1,0 +1,8 @@
+This is the project P0 for DIOE2016 aka ID6763
+It's a group project done by 3: Jian Ruan, Ruicheng Meng, Xinyu Li
+
+Codes are compatile with Arduino Uno or Intel Galileo
+It contains vibration sensor, flex sensor and range sensor on the control side
+and a servo, a dotStar LED strip and a vibrator on the output side.
+
+8/31/2016
