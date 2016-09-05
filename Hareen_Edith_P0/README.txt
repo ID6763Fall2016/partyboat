@@ -1,0 +1,5 @@
+There are two files that control two different Galileo boards. "partyBoat_buzz" controls that 1st generation board, and "partyBoat_party" controls the second generation one.
+
+On the first generation Galileo board, we wire the LED lights, soft potentiometer, servo motor and range finder in the regular way (spaghetti). The blue LED light and the servo motor are controlled by soft potentiometer. When the upper part of potentiometer is pressed, the servo motor rotates by a larger angle and LED light blinks faster, showing the Buzz is dancing with the blinking light. The green LED light is controlled by the ultrasonic range sensor. When it is blocked by some objects, the light blinks slower, implying there are too many people around the Buzz and it may be a good idea to stop partying.  
+
+On the second generation Galileo board, the grove light sensor controls the buzzer and LCD display. If the room is dark, the LCD will light up and buzzer will play a song, and the party starts. 
