@@ -22,8 +22,8 @@ void playTone(int tone, int duration) {
 }
 
 void playNote(char note, int duration) {
-    char names[] = { 'c', 'd', 'e', 'f', 'g', 'a', 'b', 'C' };
-    int tones[] = { 1915, 1700, 1519, 1432, 1275, 1136, 1014, 956 };
+    char names[] = { 'c', 'd', 'e', 'f', 'g', 'a', 'b', 'C' };  //song tune
+    int tones[] = { 1915, 1700, 1519, 1432, 1275, 1136, 1014, 956 }; //note frequencies
 
     // play tone corresponding to note
     for (int i = 0; i < 8; i++) {
@@ -50,7 +50,7 @@ void loop()
   int sensorValue = analogRead(pinLight);
   if(sensorValue>thresholdValue) 
   { 
-  lcd.setRGB(0, 255, 0);
+  lcd.setRGB(0, 255, 0); //LCD is green
   lcd.setCursor(0, 0);
   lcd.print("Dim the lights");
   delay (100);
@@ -72,7 +72,7 @@ void loop()
 
         // pause between notes
         delay(tempo / 2);  
-  lcd.setRGB(255, 255, 0);
+  lcd.setRGB(255, 255, 0); //LCD is yellow
   lcd.setCursor(0,0);
   lcd.print("PAAAARTY TIME!");
   delay(100);
