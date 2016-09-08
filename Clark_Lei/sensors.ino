@@ -135,6 +135,9 @@ void loop(){
   }
 }
 
+/**
+ * Retrieved from http://scruss.com/blog/2010/09/12/hsv-colour-cycling-led-on-arduino/
+ **/
 long HSV_to_RGB( float h, float s, float v ) {
   /* modified from Alvy Ray Smith's site: http://www.alvyray.com/Papers/hsv2rgb.htm */
   // H is given on [0, 6]. S and V are given on [0, 1].
