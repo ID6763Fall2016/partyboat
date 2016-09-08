@@ -1,27 +1,27 @@
 Setup:
   
-  ==Upload comiled sketch to Arduno Yun (Not working well with Galileo). 
+...Upload comiled sketch to Arduno Yun (Not working well with Galileo). 
   
 Instructions:
   
-  **Press switch to start/end a round;
+  *Press switch to start/end a round;
   
-  **Press softspot to change color;
+  *Press softspot to change color;
   
-  **Blend flex sensor strip to trigger sucessful match. 
+  *Blend flex sensor strip to trigger sucessful match. 
 
 Connection:
   
-  **Servo moter PWD pin: d9;
+  1. Servo moter PWD pin: d9;
   
-  --Switch: d7;
+  2. Switch: d7;
   
-  --DotStar: data d4, clock d5;
+  3. DotStar: data d4, clock d5;
   
-  ##LED positive: d12.
+  4. LED positive: d12.
   
-  A0 reserved for random seed, must be left unattached;
+  5. A0 reserved for random seed, must be left unattached;
   
-  ##Softspot: A1;
+  6. Softspot: A1;
   
-  ##FlexSensor: A3. 
+  7. FlexSensor: A3. 
