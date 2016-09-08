@@ -1,14 +1,14 @@
 # Setup
   
-...Upload comiled sketch to Arduno Yun (Not working well with Galileo). 
+⋅⋅⋅ Upload comiled sketch to Arduno Yun (Not working well with Galileo). 
   
 # Instructions:
   
-  1. Press switch to start/end a round;
+  * Press switch to start/end a round;
   
-  2. Press softspot to change color;
+  * Press softspot to change color;
   
-  3. Blend flex sensor strip to trigger sucessful match. 
+  * Blend flex sensor strip to trigger sucessful match. 
 
 # Connection:
   
