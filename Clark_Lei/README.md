@@ -1,16 +1,16 @@
-Setup:
+# Setup
   
 ...Upload comiled sketch to Arduno Yun (Not working well with Galileo). 
   
-Instructions:
+# Instructions:
   
-  *Press switch to start/end a round;
+  1. Press switch to start/end a round;
   
-  *Press softspot to change color;
+  2. Press softspot to change color;
   
-  *Blend flex sensor strip to trigger sucessful match. 
+  3. Blend flex sensor strip to trigger sucessful match. 
 
-Connection:
+# Connection:
   
   1. Servo moter PWD pin: d9;
   
